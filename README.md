@@ -44,7 +44,3 @@ This script takes the user's first and last name as input and displays a persona
 
 ## Requirements
 - Python 3.x
-
-## Notes
-- Ensure Python is installed and added to your system's PATH.
-- These scripts are beginner-friendly and demonstrate basic Python programming concepts.
